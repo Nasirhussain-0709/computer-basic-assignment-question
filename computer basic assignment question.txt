@@ -1,0 +1,74 @@
+                              COMPUTER BASICS ASSIGNMENT QUESTION
+
+Q.1:-What is a computer?
+
+Ans:- A computer is an electronic device that stores and processes data,often in binary   form,in accordance with commands from a variable programme.
+
+Classification of Computer(on basis of size,work and purpose)
+1.Super Computer
+2.Mainframe Computer
+3.Mini Computer
+4.Micro Computer
+
+Features of Computer
+1.Speed
+2.Accuracy
+3.Diligence
+4.Versatility
+5.Reliability
+6.Automation
+
+Components of Computer
+1.I/O(Input/Output)
+2.CPU
+3.Primary Memory
+4.RAM
+5.Hard Disk/SSD
+
+Q.2:- What is a RAM?
+
+Ans:-It is a volatile devise.This means that information is kept in RAM while the computer is running,but it is erased when the machine is powered off.The operating system and other files are frequently loaded from an HDD or SSD into RAM when the computer is restarted.
+
+Q.3:- Where is data stored in computer?
+
+Ans:- Data stored in computer in Hard Disc Drive(HDD) or Solid State Drive(SSD).
+
+Q.4:- What is that input device used to type text and numbers on a document in the computer system?
+
+Ans:-A Keyboard is an input device used to type text and numbers on a document in the computer system.
+
+Q.5:- What are the output devices?
+
+Ans:- Output devices are:-
+1.Monitor
+2.Printer
+3.Speaker
+4.Headphone
+5.Projectors
+6.plotter
+7.Braille Display
+8.Touch screen
+9.Haptic Feedback Device
+10.Digital Signage Display
+
+Q.6:- Which is the input device that allow a user to move the cursor or pointer on the screen?
+
+Ans:- Mouse is an input device that allow a user to move the cursor or pointer on the screen.
+
+Q.7:- Which language is directly understood by the computer without a translation program?
+
+Ans:- Machine language is the language directly understood by the computer without a translation program.
+
+Q.8:- What are Input devices?  
+
+Ans:- Input devices are:-
+1.Keyboard
+2.Mouse
+3.Joystick
+4.Trackball
+5.Scanner
+6.Microphone
+7.Magnetic Ink Card Reader(MICR)
+8.Optical Character Reader(OCR)
+9.Optical Mark Reader(OMR)
+10.Light Pen
